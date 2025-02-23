@@ -9,4 +9,5 @@ public struct APIEnvironmentDev: APIEnvironment {
     public var baseUrlString: String {
         return "https://api.flickr.com/"
     }
+    public init() {}
 }
