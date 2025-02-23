@@ -1,0 +1,18 @@
+# Xcode
+build/*
+xcuserdata
+*.xccheckout
+*.xcuserstate
+*.xcworkspace
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+/.build/
+/Packages/
+
+# SwiftPM artifacts
+.swiftpm/
+
+.netrc
